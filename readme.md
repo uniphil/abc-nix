@@ -1,6 +1,6 @@
 # ABC Nix
 
-How to do stuff with NixOS, so I don't forget.
+How to do stuff with NixOS, for mere mortals like me, so I don't forget.
 
 
 ## Add and remove packages from nixpkgs
