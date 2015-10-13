@@ -2,6 +2,12 @@
 
 How to do stuff with NixOS, for mere mortals like me, so I don't forget.
 
+# Stuff:
+
+- [Flashing CHIP Alpha](./chip.md) from NixOS (with the SDK VM)
+
+
+# More stuff:
 
 ## Add and remove packages from nixpkgs
 
